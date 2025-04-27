@@ -1,0 +1,22 @@
+n=4,Workers finished in 130294 ms
+n=5,Workers finished in 105229 ms
+n=6, Workers finished in 88519 ms
+n=7,Workers finished in 76666 ms
+n=8,Workers finished in 67737 ms
+n=9,Workers finished in 60704 ms
+n=10,Workers finished in 55111 ms
+n=11,Workers finished in 50590 ms
+n=12,Workers finished in 46845 ms
+n=14,Workers finished in 40902 ms
+n=16,Workers finished in 36490 ms
+n=19,Workers finished in 31560 ms
+n=20,Workers finished in 30059 ms
+n=22,Workers finished in 28054 ms
+n=25,Workers finished in 25039 ms
+n=30,Workers finished in 22039 ms
+n=33,Workers finished in 20238 ms
+n=37,Workers finished in 18933 ms
+n=39,Workers finished in 18346 ms
+n=40,Workers finished in 18034 ms
+
+
